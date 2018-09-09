@@ -1,0 +1,16 @@
+h1 {
+  color: #fb04a9;
+}
+p {
+  color:white;
+  font-family:Courier;
+}
+
+/* The below code is for the "Return to Menu" link */
+.returnToMenu a {
+  color:#AE06F7;
+  font-size:33px;
+/*   font:  */
+/* color:white; */
+}
+  

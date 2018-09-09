@@ -1,0 +1,37 @@
+body {
+    background-image: url("http://cdn.pcwallart.com/images/violet-vs-lavender-wallpaper-1.jpg");
+}
+    
+h1 {
+  color: white;
+}
+
+p {
+  color: black
+} 
+h2 {
+  color: #091349
+}
+ul {
+  color: #091349  
+}
+.h2II{
+  color: #BD929A   
+}
+
+.h3Astronomy {
+  color: #2C063D
+}
+.h3Bio {
+  color: #091349
+}
+
+
+.Conc{
+  border: 1px solid black;
+  background-color: #ad76bc;}
+/* The below code is for the "Return to Menu" link */
+.returnToMenu a {
+  color: white;
+  font-size:30px;
+}

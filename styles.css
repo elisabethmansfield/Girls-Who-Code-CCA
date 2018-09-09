@@ -1,0 +1,85 @@
+a{
+  color: white;
+}
+
+html, body {
+  font-family: sans-serif;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 48px;
+  color: #5974db;
+  text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+
+p {
+  max-width: 65%;
+  min-width: 500px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  color: white;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
+
+video {
+  background-color: #000000;
+  border: 2px solid black;
+}
+
+.menu {
+  display: flex;
+}
+
+.main {
+  padding-left: 30px;
+  min-width: 75%;
+}
+
+.nav {
+  font: helvetica;
+  background-color: #5974db;
+  max-width: 30%;
+  min-width: 291px;
+  flex: 1;
+}
+
+.nav h1 {
+  padding-left: 20px;
+}
+
+.nav ul {
+  font-size: 28px;
+  color: white;
+  text-shadow: 1px 0 0 #2C1272, -1px 0 0 #2C1272, 0 1px 0 #2C1272, 0 -1px 0 #2C1272, 1px 1px #2C1272, -1px -1px 0 #2C1272, 1px -1px 0 #2C1272, -1px 1px 0 #2C1272;
+}
+
+/* The below code is for the "Return to Menu" link */
+.returnToMenu a {
+  color:white;
+  font-size:22px;
+}
+
+#seeCode {
+  border: 1px solid black;
+  background-color: #ad76bc;
+  color: black;
+  width: 50%;
+  text-align: center;
+  margin-left:4%;
+}
+
+#dog {
+  width:60%;
+}

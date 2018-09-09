@@ -1,0 +1,85 @@
+body {
+  padding-left: 20px;
+  background-image: url("https://wallpapercave.com/wp/wp1851793.jpg");
+  font-family: sans-serif;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+}
+
+h1 { 
+  font-family: "arial";
+  font-size: 50px;
+  color: #93260D;
+  text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+  padding-left: 20px;
+}
+
+a{
+  color: white;
+}
+
+p {
+  color: pink;
+  max-width: 65%;
+  min-width: 500px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  color: white;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
+
+.CarolynAboutUsP1 {
+  color:black;
+  font-size: 20px;
+}
+
+.HarmonyRae {
+  color:white;
+  font-size:20px;
+}
+ 
+.Teacher {
+  color:white;
+  font-size: 20px;
+}
+
+.Maddie {
+  color:yellow;
+  font-size: 20px;
+}
+
+/* The below code is for the "Return to Menu" link */
+.returnToMenu a {
+  color:purple;
+  font-size:22px;
+}
+
+#uspic {
+/*     margin: auto; */
+    max-width: 700px;
+    max-height: 480px;
+/*     width: 550px;
+    height: 400px; */
+    padding-left: 20px;
+}
+
+#gwc {
+    max-width: 200px;
+    max-height:100px;
+    height: 500px;
+}
+
+#caption{
+  color: white;
+  margin-left: 130px;
+}
