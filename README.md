@@ -1,18 +1,6 @@
-# My cool website
-
-This file describes your project to the community. What's your cool website about? What makes it special?
-
-ヽ(๏∀๏ )ﾉ
-
-## ← index.html
-
-Where you'll write the content of your website. 
-
-## ← styles.css
-
-CSS files add styling rules to your content
-
-## ← script.js
-
-If you're feeling fancy you can add interactivity to your site with Javascript
+# Girls Who Code CCA
+## Fall 2017
+Club Facilitator: Elisabeth Mansfield (Ms. Liz)
+Members: Carolyn (12), Maddie (12), Harmony Rae (10)
+http://mch-science-academy.glitch.me
 
